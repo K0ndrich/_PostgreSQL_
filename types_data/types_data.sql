@@ -14,7 +14,7 @@ bigint
 decimal / numeric
 -- 
 -- цисла с плавающей точкой, 6 чисел после комы (4 Bytes)
-real / float4
+real / float4   
 -- 
 -- числа с плавающей точкой, 15 чисел после комы (8 Bytes)
 double precision / float8 / float
